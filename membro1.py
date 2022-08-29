@@ -9,7 +9,7 @@ def hello():
     expectativa_da_disciplina = """Expectativa - Espero construir bases sólidas em POO\n"""
 
 
-	return informacoes + hobbies + experiencias_previas + expectativa_da_disciplina
+    return informacoes + hobbies + experiencias_previas + expectativa_da_disciplina
 
 
 #escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina
